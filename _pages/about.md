@@ -48,7 +48,7 @@ redirect_from:
 <span class="anchor" id="honors"></span>
 
 - *2026*, 浙江省普通高等学校优秀毕业生
-- *2026*, 浙江机电职业技术大学 优秀毕业生 | [[推文]](https://mp.weixin.qq.com/s/jxRrR-6tqz6GaAS9a7saWw)
+- *2026*, 浙江机电职业技术大学 优秀毕业生 \| [\[推文\]](https://mp.weixin.qq.com/s/jxRrR-6tqz6GaAS9a7saWw)
 - *2025*, 浙江省政府奖学金
 - *2025*, 浙江机电职业技术大学 二等奖学金
 - *2025*, Apple Teacher 荣誉证书
