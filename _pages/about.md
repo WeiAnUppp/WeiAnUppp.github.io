@@ -3,56 +3,80 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
+我是一名学生，目前就读于宁波财经学院人工智能学院。我喜爱算法，那种把看似复杂的问题拆成清晰步骤、再亲手用代码实现的感觉，一直让我着迷。我也热爱移动应用开发，比起只做一个演示，我更想做出能被人真正打开、真正用到的东西。我习惯通过项目去学习，也喜欢在一次次实践里把想法落地。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+我于2026年毕业于浙江机电职业技术大学人工智能学院；2026年在宁波财经学院人工智能学院继续深造。 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔨 项目
 
-# 📝 Publications 
+<span class="anchor" id="projects"></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **MoneyMemo** — SwiftUI + Supabase/PostgreSQL 的 iOS 记账 App，支持多币种与 GLM OCR 智能记账。 [**GitHub**](https://github.com/weianuppp/MoneyMemo)
+- **Memento 忆物** — AI 多模态 + 空间记忆的 iOS 物品查找 App，支持自然语言 / 语音搜物与 MapKit 定位。 [**GitHub**](https://github.com/weianuppp/Memento)
+- **电藏家** — 快充设备识别与收藏管理 App，支持 PD/QC/PPS 快充协议识别与设备归档。 [**GitHub**](https://github.com/IJayHuI/power-bank-collector)
+- **smartcard-vision 打卡工资** — 纯前端打卡卡片识别 + 自动算薪 Web 工具。 [**GitHub**](https://github.com/weianuppp/smartcard-vision) [**Demo**](https://weianuppp.github.io/smartcard-vision/)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# ⚡ 技能
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<span class="anchor" id="skills"></span>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **编程语言**：Python / C++ / Swift / Java
+- **iOS 开发**：SwiftUI / UIkit / SwiftData / Combine / MapKit / AVFoundation / SQLite
+- **前端开发**：Vue / HTML / CSS / JavaScript
+- **后端开发**：Spring Boot / MyBatis / MySQL / PostgreSQL / Supabase / Strapi
+- **开发工具**：Xcode / VS Code / Git / Figma / Postman / Claude Code / Codex
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📖 教育
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class="anchor" id="education"></span>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026·09 - 2028·06*, 宁波财经学院, 计算机科学与技术, 宁波
+- *2024·09 - 2026·06*, 浙江机电职业技术大学, 计算机应用技术, 杭州
+- *2023·09 - 2024·06*, 浙江机电职业技术学院, 计算机应用技术, 杭州
+- *2020·09 - 2023·06*, 玉城中学, 台州
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎖️ 荣誉
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class="anchor" id="honors"></span>
+
+- *2026*, 浙江省普通高等学校优秀毕业生
+- *2026*, 浙江机电职业技术大学 优秀毕业生 [推文](https://mp.weixin.qq.com/s/jxRrR-6tqz6GaAS9a7saWw)
+- *2025*, 浙江省政府奖学金
+- *2025*, 浙江机电职业技术大学 二等奖学金
+- *2025*, Apple Teacher 荣誉证书
+- *2024*, 浙江省政府奖学金
+- *2024*, 浙江机电职业技术大学 三等奖学金
+
+# 🏆 竞赛
+
+<span class="anchor" id="competitions"></span>
+
+- *2026·08*, 中国高校计算机大赛-2026移动应用创新赛 启迪赛道 华东赛区 **二等奖**
+- *2026·08·21*, 第八届码蹄杯程序设计大赛本科院校赛道荣获国赛 **铜奖**
+- *2026·08·21*, 第八届码蹄杯程序设计大赛职业院校赛道国赛 **金奖**
+- *2026·06·17*, 第十七届蓝桥杯全国大学生软件和信息技术专业人才大赛软件赛 Python 程序设计大学 B 组全国总决赛 **一等奖**
+- *2026·06·10*, 第八届码蹄杯程序设计大赛本科院校赛道浙江赛区省赛 **银奖**
+- *2026·06·10*, 第八届码蹄杯程序设计大赛职业院校赛道华东赛区省赛 **金奖**
+- *2026·05·08*, 第十七届蓝桥杯全国大学生软件和信息技术专业人才大赛浙江赛区 Python 程序设计大学 B 组 **一等奖**
+- *2025·10·26*, 2025年中国大学生程序设计竞赛-高职专场 **银奖**
+- *2025·08·30*, 第七届码蹄杯程序设计大赛职业院校赛道国赛 **金奖**
+- *2025·08*, 中国高校计算机大赛-2025移动应用创新赛 启迪赛道 华东赛区 **一等奖**
+- *2025·07·15*, 第七届码蹄杯程序设计大赛职业院校赛道华东赛区省赛 **金奖**
+- *2025·06·23*, 第十六届蓝桥杯全国软件和信息技术专业人才大赛全国总决赛 Python 程序设计大学 C 组 **一等奖**
+- *2025·05·26*, 第十六届蓝桥杯全国软件和信息技术专业人才大赛浙江赛区 Python 程序设计大学 C 组 **一等奖**
+- *2025·05·06*, 中国高校计算机大赛-2025团队程序设计天梯赛 全国总决赛“沧海竞舟” **团队一等奖**
+- *2025·04*, 浙江省第二十二届大学生程序设计竞赛 **银奖**
+- *2025·02*, 获第八届牛客寒假算法基础集训营 **二等奖**
+- *2024·07*, 第六届码蹄杯全国大学生程序设计大赛职业院校赛道国赛 **金奖**
+- *2024·07*, 第六届码蹄杯全国大学生程序设计大赛职业院校赛道省赛 **银奖**
+- *2024·04·30*, 中国高校计算机大赛-2024团队程序设计天梯赛 全国总决赛“沧海竞舟” **团队二等奖**
+- *2024·04·29*, 第十五届蓝桥杯全国软件和信息技术专业人才大赛浙江赛区 Python 程序设计大学 C 组 **二等奖**
+- *2024·04*, 浙江省第二十一届大学生程序设计竞赛 **铜奖**
