@@ -22,7 +22,7 @@ redirect_from:
 - **MoneyMemo** — SwiftUI + Supabase/PostgreSQL 的 iOS 记账 App，支持多币种与 GLM OCR 智能记账。 [**GitHub**](https://github.com/weianuppp/MoneyMemo)
 - **Memento 忆物** — AI 多模态 + 空间记忆的 iOS 物品查找 App，支持自然语言 / 语音搜物与 MapKit 定位。 [**GitHub**](https://github.com/weianuppp/Memento)
 - **电藏家** — 快充设备识别与收藏管理 App，支持 PD/QC/PPS 快充协议识别与设备归档。 [**GitHub**](https://github.com/IJayHuI/power-bank-collector)
-- **smartcard-vision 打卡工资** — 纯前端打卡卡片识别 + 自动算薪 Web 工具。 [**GitHub**](https://github.com/weianuppp/smartcard-vision) [**Demo**](https://weianuppp.github.io/smartcard-vision/)
+- **smartcard-vision 打卡工资** — 打卡卡片识别 + 自动算薪 Web 工具。 [**GitHub**](https://github.com/weianuppp/smartcard-vision) [**Demo**](https://weianuppp.github.io/smartcard-vision/)
 
 # ⚡ 技能
 
@@ -48,7 +48,7 @@ redirect_from:
 <span class="anchor" id="honors"></span>
 
 - *2026*, 浙江省普通高等学校优秀毕业生
-- *2026*, 浙江机电职业技术大学 优秀毕业生 \| [\[推文\]](https://mp.weixin.qq.com/s/jxRrR-6tqz6GaAS9a7saWw)
+- *2026*, 浙江机电职业技术大学 优秀毕业生 \| [[推文]](https://mp.weixin.qq.com/s/jxRrR-6tqz6GaAS9a7saWw)
 - *2025*, 浙江省政府奖学金
 - *2025*, 浙江机电职业技术大学 二等奖学金
 - *2025*, Apple Teacher 荣誉证书
