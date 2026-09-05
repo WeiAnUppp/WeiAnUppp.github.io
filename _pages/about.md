@@ -32,7 +32,7 @@ redirect_from:
 - **iOS 开发**：SwiftUI / UIkit / SwiftData / Combine / MapKit / AVFoundation / SQLite
 - **前端开发**：Vue / HTML / CSS / JavaScript
 - **后端开发**：Spring Boot / Flask / MyBatis / MySQL / PostgreSQL / Supabase / Strapi
-- **AI 开发**：LLM / RAG / AI Agent / Multimodal AI / Function Calling / Vector Database
+- **AI 应用开发**：LLM / RAG / AI Agent / Multimodal AI / Function Calling / Vector Database
 - **开发工具**：Xcode / VS Code / Git / Figma / Postman / Claude Code / Codex
 
 # 📖 教育
