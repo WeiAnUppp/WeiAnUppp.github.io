@@ -31,7 +31,8 @@ redirect_from:
 - **编程语言**：Python / C++ / Swift / Java
 - **iOS 开发**：SwiftUI / UIkit / SwiftData / Combine / MapKit / AVFoundation / SQLite
 - **前端开发**：Vue / HTML / CSS / JavaScript
-- **后端开发**：Spring Boot / MyBatis / MySQL / PostgreSQL / Supabase / Strapi
+- **后端开发**：Spring Boot / Flask / MyBatis / MySQL / PostgreSQL / Supabase / Strapi
+- **AI 开发**：LLM / RAG / AI Agent / Multimodal AI / Function Calling / Vector Database
 - **开发工具**：Xcode / VS Code / Git / Figma / Postman / Claude Code / Codex
 
 # 📖 教育
